@@ -1,1 +1,1 @@
-# recursion_gitworkshop
+# recursionのgitworkshopの事前課題
